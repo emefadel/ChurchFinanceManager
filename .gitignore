@@ -1,0 +1,17 @@
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+
+# Database files
+*.sqlite3
+
+# Build directories
+dist/
+build/
+
+# Logs
+*.log
+ 
